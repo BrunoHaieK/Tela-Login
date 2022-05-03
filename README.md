@@ -1,5 +1,5 @@
 # Tela de Login
-Projeto simples feito utilizando as tecnologias HTML5, CSS, bootstrap e javascript
+Projeto simples feito utilizando as tecnologias HTML5, CSS3, bootstrap e javascript
 
 ## Autor
 **Bruno Haiek**
